@@ -46,10 +46,10 @@ export const Navigation = () => {
           <ThemeSwitcher />
         </NavbarItem>
         <NavbarItem>
-          <Button 
-            as="a" 
-            color="primary" 
-            href="/src/Resume.pdf" 
+          <Button
+            as="a"
+            color="primary"
+            href="/Resume.pdf" // Changed path
             target="_blank"
             download="Sarvajeeth_UK_Resume.pdf"
             variant="flat"

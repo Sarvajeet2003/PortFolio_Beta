@@ -57,7 +57,7 @@ export const HeroSection = () => {
             
             <Button
               as="a"
-              href="Assets/Resume.pdf"
+              href="/Resume.pdf" // Changed path
               target="_blank"
               variant="bordered"
               size="lg"

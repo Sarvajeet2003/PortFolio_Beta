@@ -19,8 +19,8 @@ export const Footer = () => {
           </div>
           
           <div className="flex gap-6">
-            <Link 
-              href="Assets/Resume.pdf" 
+            <Link
+              href="/Resume.pdf" // Changed path
               target="_blank"
               download="Sarvajeeth_UK_Resume.pdf"
               className="text-default-600 hover:text-primary-500 transition-colors"

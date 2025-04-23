@@ -16,8 +16,8 @@ export const AboutSection = () => {
           <div className="w-full md:w-1/3">
             <Card className="overflow-hidden">
               <CardBody className="p-0">
-                <img 
-                  src="Assets/a.png"
+                <img
+                  src="/a.png" // Changed path
                   alt="Sarvajeeth U K at Distrikt Festival"
                   className="w-full aspect-square object-cover"
                 />
@@ -26,7 +26,7 @@ export const AboutSection = () => {
           </div>
           <div className="w-full md:w-2/3 space-y-4 text-lg text-default-600">
             <p>
-              As a final-year B.Tech student in Computational and Social Sciences at IIIT Delhi, 
+              As a final-year B.Tech student in Computer and Social Sciences at IIIT Delhi, 
               I'm passionate about leveraging machine learning and data science to solve real-world problems.
             </p>
             <p>
