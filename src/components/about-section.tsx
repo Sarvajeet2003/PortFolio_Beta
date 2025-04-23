@@ -17,7 +17,7 @@ export const AboutSection = () => {
             <Card className="overflow-hidden">
               <CardBody className="p-0">
                 <img 
-                  src="src/a.png"
+                  src="Assets/a.png"
                   alt="Sarvajeeth U K at Distrikt Festival"
                   className="w-full aspect-square object-cover"
                 />

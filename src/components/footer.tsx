@@ -20,7 +20,7 @@ export const Footer = () => {
           
           <div className="flex gap-6">
             <Link 
-              href="src/Resume.pdf" 
+              href="Assets/Resume.pdf" 
               target="_blank"
               download="Sarvajeeth_UK_Resume.pdf"
               className="text-default-600 hover:text-primary-500 transition-colors"
